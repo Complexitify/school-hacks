@@ -1,0 +1,5 @@
+javascript:(function(){var bb = window.prompt("Bottom base length");
+var b = window.prompt("Base length");
+var h = window.prompt("Height length");
+
+window.alert("Surface area: "+ ((b*bb)/2 + ((b*h)* 1.5)) );})();
